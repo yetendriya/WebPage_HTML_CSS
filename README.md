@@ -15,4 +15,5 @@ Feel free to explore the code to understand the structure and styling used in th
 
 
 
-![image](https://github.com/yetendriya/WebPage_HTML_CSS/assets/112620897/aad7ae56-4050-4762-8045-c06f17ceacb8)
+![image](https://github.com/yetendriya/WebPage_HTML_CSS/assets/112620897/70bb01b7-0265-4500-890d-3d59d7ce54d9)
+
