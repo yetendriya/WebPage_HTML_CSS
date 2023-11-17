@@ -12,3 +12,7 @@ The HTML file (`index.html`) structures the webpage content, while the CSS file 
 - `style.css`: Contains styling rules for elements, ensuring a visually appealing layout.
 
 Feel free to explore the code to understand the structure and styling used in this simple personal webpage.
+
+
+
+![image](https://github.com/yetendriya/WebPage_HTML_CSS/assets/112620897/aad7ae56-4050-4762-8045-c06f17ceacb8)
